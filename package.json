@@ -1,6 +1,6 @@
 {
   "name": "@thundernetworkrad/logs",
-  "version": "2023.02.03",
+  "version": "2023.02.03-1",
   "description": "Logging module for JavaScript / TypeScript",
   "main": "build/index.js",
   "types": "build/index.d.ts",
