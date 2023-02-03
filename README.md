@@ -1,1 +1,1 @@
-# template-npm-packages
+# Public version Work In Progress
