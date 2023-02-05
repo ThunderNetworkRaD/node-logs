@@ -1,11 +1,11 @@
 {
   "name": "@thundernetworkrad/logs",
-  "version": "2023.02.05",
+  "version": "2023.02.05-1",
   "description": "Logging module for JavaScript / TypeScript",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
-    "install": "tsc"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ThunderNetworkRaD/node-logs#readme",
   "dependencies": {
-    "@thundernetworkrad/time": "^2023.2.5",
+    "@thundernetworkrad/time": "^2023.2.5-2",
     "@types/node": "^18.11.18",
     "tslib": "^2.5.0",
     "typescript": "^4.9.4"
